@@ -155,12 +155,13 @@ nav ul li a:hover {
 }
 
 .demo-link {
-    display: inline-block;
+    display: block;
+    width: max-content;
     font-size: 0.8rem;
     color: var(--text-primary);
     text-decoration: none;
     border-bottom: 1px solid var(--accent);
-    margin-bottom: 1rem;
+    margin-bottom: 0.8rem;
     transition: all 0.3s;
 }
 
@@ -173,6 +174,7 @@ nav ul li a:hover {
     font-size: 0.8rem;
     color: var(--accent);
     display: block;
+    margin-top: 0.5rem;
 }
 
 /* Footer & Contact */
