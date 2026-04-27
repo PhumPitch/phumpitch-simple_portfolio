@@ -157,6 +157,21 @@ nav ul li a:hover {
 .tech-stack {
     font-size: 0.8rem;
     color: var(--accent);
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.demo-link {
+    font-size: 0.8rem;
+    color: var(--text-primary);
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent);
+    transition: all 0.3s;
+}
+
+.demo-link:hover {
+    color: var(--accent);
+    padding-left: 5px;
 }
 
 /* Footer & Contact */
