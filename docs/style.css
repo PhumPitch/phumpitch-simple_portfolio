@@ -151,27 +151,28 @@ nav ul li a:hover {
 .project-card p {
     color: var(--text-secondary);
     font-size: 0.9rem;
-    margin-bottom: 1.5rem;
-}
-
-.tech-stack {
-    font-size: 0.8rem;
-    color: var(--accent);
-    display: block;
     margin-bottom: 1rem;
 }
 
 .demo-link {
+    display: inline-block;
     font-size: 0.8rem;
     color: var(--text-primary);
     text-decoration: none;
     border-bottom: 1px solid var(--accent);
+    margin-bottom: 1rem;
     transition: all 0.3s;
 }
 
 .demo-link:hover {
     color: var(--accent);
     padding-left: 5px;
+}
+
+.tech-stack {
+    font-size: 0.8rem;
+    color: var(--accent);
+    display: block;
 }
 
 /* Footer & Contact */
