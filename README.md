@@ -3,7 +3,7 @@
 A modern, terminal-themed portfolio website designed for a **Junior Data Associate**. 
 
 ## 🚀 Live Demo
-The site is hosted on GitHub Pages: [PhumPitch Portfolio]()
+The site is hosted on GitHub Pages: [PhumPitch Portfolio](https://phumpitch.github.io/phumpitch-simple_portfolio/)
 
 ## 🛠️ Tech Stack
 - **HTML5**: Semantic structure.
